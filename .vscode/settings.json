@@ -1,0 +1,15 @@
+{
+  "explorer.openEditors.visible": 0,
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Source Code Pro', Consolas, 'Courier New', monospace",
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.formatOnSave": true,
+  "php.executablePath": "D:\\xampp\\php\\php.exe",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "editor.suggestSelection": "first",
+  "python.formatting.provider": "none",
+  "python.pythonPath": "C:\\Users\\alfad\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+}
